@@ -7,7 +7,7 @@ You can read about generic games in the [JRUCS Rules](https://github.com/jrucs/j
 The year is 2104. Magic is seeping into our universe. Alchemists roam the Earth battling one another.
 
 * [Alchemy](https://github.com/jrucs/alchemy)
-* [Alchemry Contrib](https://github.com/jrucs/alchemy-contrib)
+* [Alchemy Contrib](https://github.com/jrucs/alchemy-contrib)
 
 ## Gods
 
