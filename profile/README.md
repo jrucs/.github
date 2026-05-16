@@ -1,11 +1,11 @@
-JRUCS Reconfigurable Universal Card System (JRUCS)
+# JRUCS Reconfigurable Universal Card System (JRUCS)
 
-Rules
+## Rules
 
 * Base Rules
 * Alchemy
 
-Social Media
+## Social Media
 
 * [Facebook](https://www.reddit.com/r/jrucs/)
 * [Reddit](https://www.facebook.com/groups/jrucs)
