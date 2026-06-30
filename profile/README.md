@@ -1,6 +1,6 @@
 # JRUCS Reconfigurable Universal Card System (JRUCS)
 
-JRUCS Reconfigurable Universal Card System (JRUCS) is for playing trading card games.  It's a universal system that can be used and modified by anyone.  Similarly the cards themselves can be printed and modified by anyone.  This approach focuses games on creativity.
+JRUCS is for playing trading card games.  It's a universal system that can be used and modified by anyone.  The cards themselves can be printed and modified by anyone.  This approach focuses games on creativity.
 
 You can read about generic games in the [JRUCS Rules](https://github.com/jrucs/jrucs-rules).
 
