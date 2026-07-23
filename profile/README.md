@@ -26,5 +26,5 @@ The more disciples a god has, the more powerful they are. As a minor deity, your
 
 ## Social Media
 
-* [Facebook](https://www.reddit.com/r/jrucs/)
-* [Reddit](https://www.facebook.com/groups/jrucs)
+* [Facebook](https://www.facebook.com/groups/jrucs)
+* [Reddit](https://www.reddit.com/r/jrucs/)
