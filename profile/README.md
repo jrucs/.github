@@ -11,6 +11,13 @@ The year is 2104. Magic is seeping into our universe. Alchemists roam the Earth 
 * [Alchemy](https://github.com/jrucs/alchemy)
 * [Alchemy Contrib](https://github.com/jrucs/alchemy-contrib)
 
+Printed cards are available on Amazon!
+
+* [Fire](https://www.amazon.com/dp/B0H9VDF7QD)
+* [Water](https://www.amazon.com/dp/B0H9VN7R6S)
+* [Air](https://www.amazon.com/dp/B0H9TLC6RP)
+* Earth - coming soon!
+
 ## Gods
 
 The more disciples a god has, the more powerful they are. As a minor deity, your goal is to create a religion that subsumes all others, either by killing the nonbelievers or converting them to yours, the true religion.
