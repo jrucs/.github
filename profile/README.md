@@ -13,10 +13,10 @@ The year is 2104. Magic is seeping into our universe. Alchemists roam the Earth 
 
 Printed cards are available on Amazon!
 
-* [Fire](https://www.amazon.com/dp/B0H9VDF7QD)
-* [Water](https://www.amazon.com/dp/B0H9VN7R6S)
-* [Air](https://www.amazon.com/dp/B0H9TLC6RP)
-* Earth - coming soon!
+* 🜁 - [Air](https://www.amazon.com/dp/B0H9TLC6RP)
+* 🜂 - [Fire](https://www.amazon.com/dp/B0H9VDF7QD)
+* 🜄 - [Water](https://www.amazon.com/dp/B0H9VN7R6S)
+* 🜃 - Earth - coming soon!
 
 ## Gods
 
