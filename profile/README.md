@@ -28,3 +28,10 @@ The more disciples a god has, the more powerful they are. As a minor deity, your
 
 * [Facebook](https://www.facebook.com/groups/jrucs)
 * [Reddit](https://www.reddit.com/r/jrucs/)
+
+## Accessories
+
+We've been using glass beads for tokens and Go bowls to hold them.  We have been discussing custom glass beads with alchemical symbols in them.
+
+* [Glass Beads](https://www.amazon.com/dp/B07VHC5Z64)
+* [Go Bowls](https://www.amazon.com/dp/B0DJ71XS3D)
